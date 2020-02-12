@@ -13,3 +13,4 @@ interactive map where it is possible to find where these restaurants are and whi
 
 
 Although I am not a Data Scientist I thought it would be fun to explore the data and see exactly what type of insights I could find. 
+I hope you find them as intreaguing as I do.
